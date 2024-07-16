@@ -1,6 +1,0 @@
-{
-  "sessionSecret": "e_commerce_session_secret",
-  "db": "postgres://mojib2014:5432@localhost:5432/mojib2014",
-  "port": "port",
-  "requiresAuth": true
-}
